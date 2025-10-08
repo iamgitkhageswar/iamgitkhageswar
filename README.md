@@ -4,6 +4,8 @@
 <br>I am a dedicated and skilled programmer with a strong background in computer science and a profound commitment to excellence. Currently, I am pursuing my MCA (Master of Computer Applications) degree, which has equipped me with comprehensive knowledge and practical experience in various domains of computer applications.
 
 
+[![An image of @iamgitkhageswar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamgitkhageswar)](https://holopin.io/@iamgitkhageswar)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/babuni_khageswar.exe/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khageswar-behera-9b6a20184/) 
 
